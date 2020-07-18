@@ -1,0 +1,12 @@
+/Users/remy.deme/RiderProjects/Bank-project/Bank-project/bin/Debug/netcoreapp3.1/Bank-project.deps.json
+/Users/remy.deme/RiderProjects/Bank-project/Bank-project/bin/Debug/netcoreapp3.1/Bank-project.runtimeconfig.json
+/Users/remy.deme/RiderProjects/Bank-project/Bank-project/bin/Debug/netcoreapp3.1/Bank-project.runtimeconfig.dev.json
+/Users/remy.deme/RiderProjects/Bank-project/Bank-project/bin/Debug/netcoreapp3.1/Bank-project.dll
+/Users/remy.deme/RiderProjects/Bank-project/Bank-project/bin/Debug/netcoreapp3.1/Bank-project.pdb
+/Users/remy.deme/RiderProjects/Bank-project/Bank-project/obj/Debug/netcoreapp3.1/Bank-project.csprojAssemblyReference.cache
+/Users/remy.deme/RiderProjects/Bank-project/Bank-project/obj/Debug/netcoreapp3.1/Bank-project.AssemblyInfoInputs.cache
+/Users/remy.deme/RiderProjects/Bank-project/Bank-project/obj/Debug/netcoreapp3.1/Bank-project.AssemblyInfo.cs
+/Users/remy.deme/RiderProjects/Bank-project/Bank-project/obj/Debug/netcoreapp3.1/Bank-project.csproj.CoreCompileInputs.cache
+/Users/remy.deme/RiderProjects/Bank-project/Bank-project/obj/Debug/netcoreapp3.1/Bank-project.dll
+/Users/remy.deme/RiderProjects/Bank-project/Bank-project/obj/Debug/netcoreapp3.1/Bank-project.pdb
+/Users/remy.deme/RiderProjects/Bank-project/Bank-project/obj/Debug/netcoreapp3.1/Bank-project.genruntimeconfig.cache
