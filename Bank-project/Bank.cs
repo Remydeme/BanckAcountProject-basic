@@ -120,7 +120,8 @@ namespace Bank_project
             Console.WriteLine("1 - Faire un retrait");
             Console.WriteLine("2 - Faire un depôt");
             Console.WriteLine("3 - Faire un transfert ");
-            Console.WriteLine("4 - Quitter");
+            Console.WriteLine("4 - Historique");
+            Console.WriteLine("5 - Exit");
             Console.WriteLine("____________________________________________________________________________"); 
         }
 
@@ -389,6 +390,9 @@ namespace Bank_project
                         
                         receiverAccount.makeOperation(new Operation(montant, OperationType.Deposit,
                             DateTime.Now.ToString(), motif));
+                        break;
+                    case "4":
+                        displayAllAccountOperations(account);
                         break;
                     default:
                         exit = true;
